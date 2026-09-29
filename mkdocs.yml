@@ -1,0 +1,89 @@
+site_name: Computing Flashcards
+site_description: Computing flashcards for focused revision.
+site_url: !ENV [SITE_URL, '']
+
+docs_dir: docs
+site_dir: site
+use_directory_urls: false
+
+exclude_docs: |
+  notes/**
+  flashcards.md
+  assets/images/**
+  assets/styles.css
+  assets/app.js
+
+theme:
+  name: null
+  custom_dir: theme
+  static_templates:
+    - 404.html
+
+plugins: []
+
+hooks:
+  - hooks.py
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - fenced_code
+  - toc:
+      permalink: true
+
+nav:
+  - Flashcards: index.md
+
+extra:
+  topics:
+    - id: price-mechanism
+      title: Price mechanism
+      group: Microeconomics
+      description: Demand, supply, equilibrium, and the role of prices.
+
+    - id: elasticity
+      title: Elasticity
+      group: Microeconomics
+      description: PED, XED, YED, PES, and their applications.
+
+    - id: market-failure
+      title: Market failure
+      group: Microeconomics
+      description: Externalities, public goods, and allocative efficiency.
+
+    - id: firms-market-structure
+      title: Firms and market structure
+      group: Microeconomics
+      description: Firm objectives, economies of scale, market power, barriers to entry, efficiency, pricing strategies, and collusion.
+
+    - id: microeconomic-policies
+      title: Microeconomic policies
+      group: Microeconomics
+      description: Taxes, subsidies, price controls, quotas, and responses to market failure.
+
+    - id: economic-indicators
+      title: Economic indicators
+      group: Macroeconomics
+      description: GDP, GNI, living standards, and alternative indicators.
+
+    - id: aggregate-demand-supply
+      title: Aggregate demand and supply
+      group: Macroeconomics
+      description: Output, productive capacity, and multiplier analysis.
+
+    - id: macroeconomic-goals
+      title: Macroeconomic goals and issues
+      group: Macroeconomics
+      description: Growth, inflation, external balances, capital flows, and unemployment.
+
+    - id: policy-choices
+      title: Policy choices
+      group: Macroeconomics
+      description: Fiscal, monetary, exchange-rate, and supply-side policies.
+
+    - id: globalisation
+      title: Globalisation
+      group: International economics
+      description: Comparative advantage, trade, protectionism, and economic cooperation.
