@@ -38,52 +38,95 @@ nav:
 
 extra:
   topics:
-    - id: price-mechanism
-      title: Price mechanism
-      group: Microeconomics
-      description: Demand, supply, equilibrium, and the role of prices.
-
-    - id: elasticity
-      title: Elasticity
-      group: Microeconomics
-      description: PED, XED, YED, PES, and their applications.
-
-    - id: market-failure
-      title: Market failure
-      group: Microeconomics
-      description: Externalities, public goods, and allocative efficiency.
-
-    - id: firms-market-structure
-      title: Firms and market structure
-      group: Microeconomics
-      description: Firm objectives, economies of scale, market power, barriers to entry, efficiency, pricing strategies, and collusion.
-
-    - id: microeconomic-policies
-      title: Microeconomic policies
-      group: Microeconomics
-      description: Taxes, subsidies, price controls, quotas, and responses to market failure.
-
-    - id: economic-indicators
-      title: Economic indicators
-      group: Macroeconomics
-      description: GDP, GNI, living standards, and alternative indicators.
-
-    - id: aggregate-demand-supply
-      title: Aggregate demand and supply
-      group: Macroeconomics
-      description: Output, productive capacity, and multiplier analysis.
-
-    - id: macroeconomic-goals
-      title: Macroeconomic goals and issues
-      group: Macroeconomics
-      description: Growth, inflation, external balances, capital flows, and unemployment.
-
-    - id: policy-choices
-      title: Policy choices
-      group: Macroeconomics
-      description: Fiscal, monetary, exchange-rate, and supply-side policies.
-
-    - id: globalisation
-      title: Globalisation
-      group: International economics
-      description: Comparative advantage, trade, protectionism, and economic cooperation.
+    - id: computing-algorithm-pesudocode-flowchart-and-decision-table
+      title: "Algorithm, Pesudocode, Flowchart and Decision Table"
+      group: Computing
+      description: "Flashcards from your Algorithm, Pesudocode, Flowchart and Decision Table notes."
+    - id: computing-computer-network
+      title: "Computer Network"
+      group: Computing
+      description: "Flashcards from your Computer Network notes."
+    - id: computing-data-management
+      title: "Data Management"
+      group: Computing
+      description: "Flashcards from your Data Management notes."
+    - id: computing-data-representation
+      title: "Data Representation"
+      group: Computing
+      description: "Flashcards from your Data Representation notes."
+    - id: computing-data-validation-and-verification
+      title: "Data Validation and Verification"
+      group: Computing
+      description: "Flashcards from your Data Validation and Verification notes."
+    - id: computing-encoding
+      title: "Encoding"
+      group: Computing
+      description: "Flashcards from your Encoding notes."
+    - id: computing-ethics
+      title: "Ethics"
+      group: Computing
+      description: "Flashcards from your Ethics notes."
+    - id: computing-file
+      title: "File"
+      group: Computing
+      description: "Flashcards from your File notes."
+    - id: computing-linked-list
+      title: "Linked List"
+      group: Computing
+      description: "Flashcards from your Linked List notes."
+    - id: computing-misc
+      title: "Misc"
+      group: Computing
+      description: "Flashcards from your Misc notes."
+    - id: computing-modularisation
+      title: "Modularisation"
+      group: Computing
+      description: "Flashcards from your Modularisation notes."
+    - id: computing-network-security
+      title: "Network Security"
+      group: Computing
+      description: "Flashcards from your Network Security notes."
+    - id: computing-non-relational-database
+      title: "Non-relational Database"
+      group: Computing
+      description: "Flashcards from your Non-relational Database notes."
+    - id: computing-oop
+      title: "OOP"
+      group: Computing
+      description: "Flashcards from your OOP notes."
+    - id: computing-program-memory-allocation
+      title: "Program Memory Allocation"
+      group: Computing
+      description: "Flashcards from your Program Memory Allocation notes."
+    - id: computing-queue
+      title: "Queue"
+      group: Computing
+      description: "Flashcards from your Queue notes."
+    - id: computing-recursion
+      title: "Recursion"
+      group: Computing
+      description: "Flashcards from your Recursion notes."
+    - id: computing-relational-databases
+      title: "Relational Databases"
+      group: Computing
+      description: "Flashcards from your Relational Databases notes."
+    - id: computing-searching-algorithm
+      title: "Searching Algorithm"
+      group: Computing
+      description: "Flashcards from your Searching Algorithm notes."
+    - id: computing-sorting-algorithm
+      title: "Sorting Algorithm"
+      group: Computing
+      description: "Flashcards from your Sorting Algorithm notes."
+    - id: computing-stack
+      title: "Stack"
+      group: Computing
+      description: "Flashcards from your Stack notes."
+    - id: computing-tree
+      title: "Tree"
+      group: Computing
+      description: "Flashcards from your Tree notes."
+    - id: computing-web-applications
+      title: "Web Applications"
+      group: Computing
+      description: "Flashcards from your Web Applications notes."
